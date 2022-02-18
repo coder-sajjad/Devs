@@ -4,7 +4,7 @@
   "description": "Devs REST API for mobile and react developer",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "js": "json-server --watch db.json --port 5050"
   },
   "author": "Sajjad",
   "license": "ISC",
