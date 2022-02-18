@@ -1,0 +1,14 @@
+{
+  "name": "class-18-devs",
+  "version": "1.0.0",
+  "description": "Devs REST API for mobile and react developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sajjad",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
